@@ -8,6 +8,8 @@
             string name = Console.ReadLine();
             DateTime currentDate = DateTime.Now;
             Console.WriteLine($"Hej, {name}, på {currentDate:d}");
+            // Slut
+
         }
     }
 }
